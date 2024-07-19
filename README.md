@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://drive.google.com/file/d/1_drqQgcot662T-2wl3CkQz4U1oEIGZKC/view?usp=drive_link)" alt="Banner">
+  <img src="https://drive.google.com/uc?export=view&id=1_drqQgcot662T-2wl3CkQz4U1oEIGZKC" alt="Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Nachiappan Chellappan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
