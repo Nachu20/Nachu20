@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img  align="center" src="https://www.bing.com/th/id/OGC.916b1c0b9788ad87b9ccdfc71bbdadf3?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f91%2f6b%2f1c%2f916b1c0b9788ad87b9ccdfc71bbdadf3.gif&ehk=uRehdZb%2fU%2f1vyCkDxiYnIN9BvqoNxH5AP9BKFoQij9c%3d" alt="banner">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nachu20&label=Profile%20views&color=0e75b6&style=flat" alt="nachu20" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nachu20&label=Profile%20views&color=0e75b6&style=flat" alt="nachu20" /> </p>
 
 - 🌱 I’m currently learning **Docker**
 
